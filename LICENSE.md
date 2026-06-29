@@ -1,4 +1,4 @@
-# 
+# Exclusif 1Password plugins pour Mac OS | Turbo 1Password plugins pour PC Windows. Avec mises à jour automatiques et stockage de documents — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
